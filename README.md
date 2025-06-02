@@ -2,7 +2,7 @@
 Step-by-step project: Launching and configuring my first AWS S3 bucket!
 
 Step 1: Create a S3 bucket within the AWS console
-- Navigate to https://aws.amazon.com/ and logged in which brings us to the console.
+- Navigate to https://aws.amazon.com/ and log in which brings us to the console.
 - Searched S3 in the search bar.
 - Select "create bucket."
 ![image](https://github.com/user-attachments/assets/4e73f7a9-fff6-49fd-ae34-db4805d57453)
