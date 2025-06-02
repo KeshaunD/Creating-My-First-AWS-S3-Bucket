@@ -40,7 +40,7 @@ Step 5: Test your bucket
 - Now within your bucket, find the "Properties" tab and scroll down to the "Static website hosting" section.
 - You should see your static webite endpoint that we just created. Click on it.
 - If all works well, your HTML file and the text you chose to write should appear on the screen!
-- Congratulation for making this far. You now know how to launch an AWS S3 bucket and host a static webiste!
-- Make sure when you're down with this project to delete the contents of the S3 bucket and delete the bucket so you're not charge.
+- Congratulation for making it this far. You now know how to launch an AWS S3 bucket and host a static webiste!
+- Make sure when you're done with this project to delete the contents of the S3 bucket and delete the bucket so you're not charge.
 - Thanks for viewing and have a good day!
 - ![image](https://github.com/user-attachments/assets/89db4be9-a5cc-4907-ac9a-14667d4eb0ea)
